@@ -29,7 +29,7 @@ Instale as bibliotecas
 
 Execute o arquivo principal da API:
 
-`python tarefa1.py`
+`python Tarefa1.py`
 
 Deixe o terminal aberto com a API em execução
 
@@ -65,7 +65,7 @@ Resposta esperada:
   "mensagem": "arquivo criado"
 }
 
-certifique-se que na pasta exista um arquivo .txt com o nome `bloco-de-notas.txt` com o conteudo "teste teste teste"
+Certifique-se de que na pasta exista um arquivo .txt com o nome `bloco-de-notas.txt` com o conteudo "teste teste teste".
 
 
 ## Teste B – Ler arquivo
